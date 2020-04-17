@@ -1,0 +1,13 @@
+[default]
+name = "Jhaura Wachsman"
+uri = "https://twitter.com/jhaurawachsman"
+email = "jw@jhaurawachsman.com"
+twitter = "JhauraWachsman"
+image = "author/default.webp"
+
+[jhaurawachsman]
+name = "Jhaura Wachsman"
+uri = "https://twitter.com/jhaurawachsman"
+email = "jw@jhaurawachsman.com"
+twitter = "JhauraWachsman"
+image = "author/jhaurawachsman.webp"

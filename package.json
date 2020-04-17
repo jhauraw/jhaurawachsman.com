@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "jhaurawachsman-com",
+  "description": "A JAMStack static website built with Hugo, deployed serverless via Netlify with CI, and Cloudinary CDN asset management. Powered by Axiom",
+  "author": "Jhaura Wachsman <jw@jhaurawachsman.com> (https://www.jhaurawachsman.com/)",
+  "homepage": "https://www.jhaurawachsman.com/",
+  "repository": "github:jhauraw/jhaurawachsman.com.git",
+  "license": "CC-BY-SA-4.0",
+  "scripts": {
+    "prd": "hugo -e production -v --gc --minify --cleanDestinationDir",
+    "dev": "hugo -e development --config config.toml,config.dev.toml -v --gc --cleanDestinationDir --i18n-warnings --buildDrafts --buildFuture",
+    "srv": "hugo server -e development --config config.toml,config.dev.toml -v --i18n-warnings --buildDrafts --buildFuture --disableFastRender"
+  },
+  "browserslist": [
+    "> 1%"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

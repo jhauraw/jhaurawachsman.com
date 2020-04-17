@@ -1,0 +1,174 @@
+baseURL = "https://www.jhaurawachsman.com"
+
+title = "Jhaura Wachsman"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+
+theme = "axiom"
+
+paginate = 15
+canonifyURLs = false
+summaryLength = 40
+rssLimit = 100
+enableEmoji = true
+enableRobotsTXT = true
+pluralizelisttitles = false
+disableHugoGeneratorInject = true
+
+[permalinks]
+posts = "/:filename"
+
+[params]
+mainSections = ["posts"]
+copyrightYear = 2000
+# Go Reference time: Mon Jan 2 15:04:05 MST 2006
+dateFormat = "Jan 2, 2006 3:04PM"
+
+[params.brand]
+domain = "jhaurawachsman.com"
+email = "jw@jhaurawachsman.com"
+
+[params.social]
+facebook = "https://www.facebook.com/JhauraWachsman"
+github = "https://github.com/jhauraw"
+instagram = "https://instagram.com/jhaurawachsman"
+linkedin = "https://www.linkedin.com/in/jhaurawachsman"
+pinterest = "https://www.pinterest.com/jhaurawachsman"
+stackoverflow = "https://stackoverflow.com/users/1535514"
+twitter = "https://twitter.com/JhauraWachsman"
+youtube = "https://www.youtube.com/jhaurawachsman"
+footer = ["twitter", "github", "instagram"]
+
+[params.services]
+analyticsId = "UA-17276272-1"
+adwordsId = "AW-659110413"
+adsenseId = ""
+adsenseAdSlotId = ""
+adsenseLazy = false
+adwordsConversionId = "smBtCP7KrcoBEI30pLoC"
+adwordsConversionValue = 0
+facebookApp = "251689391563684"
+facebookPixel = "1130262247309983"
+disqusUser = "jhaurawachsman"
+
+[params.logo]
+inline = true
+path = "logo.svg"
+
+[params.image]
+width = "2048"
+height = "1024"
+faviconIco = "favicon.ico"
+faviconAlt = "brand/favicon.png"
+icon1To1 = "brand/icon-1-1.png"
+icon2To1 = "brand/icon-2-1.png"
+default = "page-default.webp"
+
+[params.font]
+type = "font/woff"
+path = "font/"
+files = ["fell-400-normal-latin.woff", "charter-400-normal-latin.woff", "charter-400-normal-rest.woff", "charter-400-italic-latin.woff", "charter-700-normal-latin.woff", "charter-700-italic-latin.woff", "marat-400-normal-latin.woff", "marat-600-normal-latin.woff"]
+
+[params.cdn]
+provider = "cloudinary"
+type = "image"
+
+[params.cloudinary]
+host = "https://res.cloudinary.com/jwcom/"
+version = ""
+image = "image/upload/"
+raw = "raw/upload/"
+video = "video/upload/"
+
+[params.cloudinary.presets]
+base = "f_auto,q_auto/"
+page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+
+[outputs]
+home = ["HTML", "ATOM"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+
+[outputFormats]
+[outputFormats.ATOM]
+name = "ATOM"
+baseName = "feed"
+mediaType = "application/atom+xml"
+
+[mediaTypes]
+[mediaTypes."application/atom+xml"]
+suffixes = ["atom"]
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = false
+footnote = false
+linkify = false
+strikethrough = false
+table = true
+taskList = false
+typographer = false
+[markup.goldmark.parser]
+attribute = false
+autoHeadingID = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+codeFences = false
+noClasses = false
+tabWidth = 2
+
+[menu]
+[[menu.main]]
+url = "/posts/"
+name = "Posts"
+weight = 1
+
+[[menu.mobile]]
+url = "/resume/"
+name = "Résumé"
+weight = 1
+
+[[menu.mobile]]
+url = "/about/"
+name = "About"
+weight = 2
+
+[[menu.mobile]]
+url = "/contact/"
+name = "Contact"
+weight = 3
+
+[[menu.foot]]
+url = "/posts/"
+name = "Posts"
+weight = 1
+
+[[menu.foot]]
+url = "/resume/"
+name = "Résumé"
+weight = 2
+
+[[menu.foot]]
+url = "/about/"
+name = "About"
+weight = 3
+
+[[menu.foot]]
+url = "/contact/"
+name = "Contact"
+weight = 4
+
+[[menu.foot]]
+url = "/privacy/"
+name = "Privacy"
+weight = 5
+
+[languages]
+[languages."en-us"]
+weight = 1
+languageName = "US English"

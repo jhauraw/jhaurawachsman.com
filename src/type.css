@@ -1,0 +1,142 @@
+/* type */
+/* purgecss start ignore */
+/* latin charter-400-normal-latin.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}charter-400-normal-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest charter-400-normal-rest.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}charter-400-normal-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin charter-400-italic-latin.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url('{{ .host }}charter-400-italic-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest charter-400-italic-rest.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url('{{ .host }}charter-400-italic-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin charter-700-normal-latin.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}charter-700-normal-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest charter-700-normal-rest.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}charter-700-normal-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin charter-700-italic-latin.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url('{{ .host }}charter-700-italic-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest charter-700-italic-rest.woff */
+@font-face {
+  font-family: 'font-content-serif';
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url('{{ .host }}charter-700-italic-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin marat-400-normal-latin.woff */
+@font-face {
+  font-family: 'font-content-sans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}marat-400-normal-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest marat-400-normal-rest.woff */
+@font-face {
+  font-family: 'font-content-sans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}marat-400-normal-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin marat-600-normal-latin.woff */
+@font-face {
+  font-family: 'font-content-sans';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}marat-600-normal-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest marat-600-normal-rest.woff */
+@font-face {
+  font-family: 'font-content-sans';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}marat-600-normal-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+
+/* latin fell-400-normal-latin.woff */
+@font-face {
+  font-family: 'font-content-title';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}fell-400-normal-latin.woff') format('woff');
+  unicode-range: U+0-7F,U+A0,U+200A,U+2014,U+2018,U+2019,U+201C,U+201D,U+2022,U+2026;
+}
+
+/* rest fell-400-normal-rest.woff */
+@font-face {
+  font-family: 'font-content-title';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('{{ .host }}fell-400-normal-rest.woff') format('woff');
+  unicode-range: U+80-9F,U+A1-2009,U+200B-2013,U+2015-2017,U+201A-201B,U+201E-2021,U+2023-2025,U+2027-10FFFF;
+}
+/* purgecss end ignore */

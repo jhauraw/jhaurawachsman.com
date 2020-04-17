@@ -1,0 +1,19 @@
+/axiom https://github.com/jhauraw/axiom
+
+/articles/* /posts/
+/media/pdf/* /pdf/:splat
+
+/github /contact/
+/facebook /contact/
+/twitter /contact/
+/linkedin /contact/
+/youtube /contact/
+/stacko /contact/
+/business /contact/
+/web-development /contact/
+/digital-nomad /contact/
+
+/2013/jekyll-url-helper-filter-plugin https://web.archive.org/web/20190215131818/https://www.jhaurawachsman.com/2013/jekyll-url-helper-filter-plugin/
+/2013/css-triangles-border-stroke https://web.archive.org/web/20190215131142/https://www.jhaurawachsman.com/2013/css-triangles-border-stroke/
+/2012/affirmations-entrepreneurs https://web.archive.org/web/20190215100708/https://www.jhaurawachsman.com/2012/affirmations-entrepreneurs/
+/2015/digital-nomad-surfer-solar-powered-kit https://web.archive.org/web/20190215100014/https://www.jhaurawachsman.com/2015/digital-nomad-surfer-solar-powered-kit/
