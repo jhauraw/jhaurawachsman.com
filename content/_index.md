@@ -9,7 +9,7 @@ description = "Jhaura is an internet business entrepreneur with core skills as a
 {{< /blocks/section >}}
 
 {{< blocks/section width="max-w-2xlp" mdown="off" >}}
-<p class="subtitle-post">{{< param description >}}</p>
+<p class="post-subtitle">{{< param description >}}</p>
 
 {{< recent-pages 3 >}}
 {{< /blocks/section >}}
