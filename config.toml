@@ -65,9 +65,12 @@ icon2To1 = "brand/icon-2-1.png"
 default = "page-default.webp"
 
 [params.font]
-type = "font/woff"
-path = "font/"
-files = ["fell-400-normal-latin.woff", "charter-400-normal-latin.woff", "charter-400-normal-rest.woff", "charter-400-italic-latin.woff", "charter-700-normal-latin.woff", "charter-700-italic-latin.woff", "marat-400-normal-latin.woff", "marat-600-normal-latin.woff"]
+type = ""
+path = ""
+files = []
+# type = "font/woff"
+# path = "font/"
+# files = ["fell-400-normal-latin.woff", "charter-400-normal-latin.woff", "charter-400-normal-rest.woff", "charter-400-italic-latin.woff", "charter-700-normal-latin.woff", "charter-700-italic-latin.woff", "marat-400-normal-latin.woff", "marat-600-normal-latin.woff"]
 
 [params.cdn]
 provider = "cloudinary"
