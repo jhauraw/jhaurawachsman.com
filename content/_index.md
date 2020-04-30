@@ -8,8 +8,8 @@ description = "Jhaura is an internet business entrepreneur with core skills as a
 {{< figure src="home.webp"  caption="Surfing the Pacific side of Central America." >}}
 {{< /blocks/section >}}
 
-{{< blocks/section width="max-w-2xlp" mdown="off" >}}
-<p class="post-subtitle">{{< param description >}}</p>
+{{< blocks/section width="max-w-680" mdown="off" >}}
+<p class="font-content-sans font-light text-xl text-raven-500">{{< param description >}}</p>
 
 {{< recent-pages 3 >}}
 {{< /blocks/section >}}
