@@ -1,6 +1,6 @@
 +++
 date = 2020-05-04T14:00:00Z
-lastmod = 2020-05-04T14:00:00Z
+lastmod = 2020-05-04T23:30:00Z
 author = "jhaurawachsman"
 title = "Tibetan Buddhism Seed Syllable Visualization Images"
 subtitle = "A set of high resolution printable *bijas* to assist during visualization, meditation, and practice. Letter A, Syllables AH, OM, HUM, and TAM."
@@ -9,9 +9,19 @@ feature = "tibetan-buddhism-seed-syllable-visualization-images.webp"
 
 These images have been created for the benefit of all beings, may they assist you in your visualization, meditation, and practice.
 
+## The *Bijas*
+
 The following figure shows a mosaic of all the *bijas*, which are available as individual files below.
 
 {{< figure src="tibetan-buddhism-bijas-collection.webp" caption="Tibetan Buddhism *bijas* Collection" >}}
+
+The *bijas* are (from top clockwise):
+
+- A (tib: a)
+- AH (tib: AH)
+- OM (tib: oM)
+- HUM (tib: hU~M) x2
+- TAM (tib: tAM)
 
 ## Downloading
 
