@@ -58,7 +58,7 @@ On an *exoteric* level the rainbow-like rings represent the five elements (skrt:
 
 On an *esoteric* level the rings have a vast interpretation that can consume a lifetime (or more) of study.
 
-**Mother Tantra**: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Victorious (skrt: jina) Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
+**Mother Tantra**: To understand the way in which the female tantra is symbolized in the images, we must first consider the Pancha Jina Buddha Mandala. Five Victorious Buddha Mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
 
 {{< figure src="tibetan-buddhism-pancha-jina-buddha-mandala.webp" caption="Pancha Bija and Jina Buddha Mandalas" attr="John C. Huntington" attrlink="https://huntingtonarchive.org/" >}}
 
