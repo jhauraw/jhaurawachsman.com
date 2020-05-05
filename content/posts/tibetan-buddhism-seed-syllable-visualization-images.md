@@ -1,6 +1,6 @@
 +++
 date = 2020-05-04T14:00:00Z
-lastmod = 2020-05-05T21:30:00Z
+lastmod = 2020-05-05T23:00:00Z
 author = "jhaurawachsman"
 title = "Tibetan Buddhism Seed Syllable Visualization Images"
 subtitle = "A set of high resolution printable *bijas* to assist during visualization, meditation, and practice. Letter A, Syllables AH, OM, HRIH, HUM, and TAM."
@@ -92,7 +92,7 @@ The Sanskrit meanings for the word *bindu* (the point or dot at which creation b
 
 ## Reference Sources
 
-Primary source references consisted of two tomes which were studied over a three month period. [The Encyclopedia of Tibetan Symbols and Motifs](https://www.amazon.com/dp/157062416X/?tag=17171-20) and [The Circle of Bliss: Buddhist Meditational Art](https://www.amazon.com/dp/1932476016/?tag=17171-20). Other secondary sources include: [The Tibetan and Himalayan Library](https://www.thlib.org/) and [Dharma Dictionary](http://rywiki.tsadra.org/).
+Primary source references consisted of two tomes which were studied over a three month period. [The Encyclopedia of Tibetan Symbols and Motifs](https://www.amazon.com/dp/157062416X/?tag=17171-20) and [The Circle of Bliss: Buddhist Meditational Art](https://www.amazon.com/dp/1932476016/?tag=17171-20). Secondary sources include: [The Tibetan and Himalayan Library](https://www.thlib.org/).
 
 ## Filenames
 
