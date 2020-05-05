@@ -58,29 +58,37 @@ On an *exoteric* level the rainbow-like rings represent the five elements (skrt:
 
 On an *esoteric* level the rings have a vast interpretation that can consume a lifetime (or more) of study.
 
-**Mother Tantra**: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Jina Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
+**Mother Tantra**: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Victorious (skrt: jina) Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
 
 {{< figure src="tibetan-buddhism-pancha-jina-buddha-mandala.webp" caption="Pancha Bija and Jina Buddha Mandalas" attr="John C. Huntington" attrlink="https://huntingtonarchive.org/" >}}
 
-In the male tantras, this mandala is visualized *clockwise* beginning from the eastern direction (bottom in the mandala). Directionally, this would be East (Blue, Bottom, Akshobhya) -> South (Yellow, Left, Ratnasambhava) -> West (Red, Top, Amitabha) -> North (Green, Amoghasiddhi) -> Zenith (White, Center, Vairochana). However, in the female tantras the eastern and zenith position are switched and one visualizes in a *counter-clockwise* direction beginning at the zenith, hence the name "left-hand".
+In the male tantras, this mandala is visualized *clockwise* beginning from the eastern direction (bottom in the mandala). Directionally, this would be:
 
-Encoding: the female tantra version of the Pancha Jina Buddha Mandala as an "inner-offering".
+- East (Blue, Bottom, Akshobhya, HUM)
+- South (Yellow, Left, Ratnasambhava, TRAM)
+- West (Red, Top, Amitabha, HRIH)
+- North (Green, Amoghasiddhi, AH)
+- Zenith (White, Center, Vairochana, OM)
 
-> It's important to note (and visualize) the colors starting inside with blue and working *counter-clockwise* outwards to white. We are beginning at the zenith, at emptiness.
+However, in the female tantras the eastern and zenith position are switched and one visualizes in a *counterclockwise* direction beginning at the zenith, hence the name "left-hand".
+
+**Encoding**: Rings as the female tantra version of the Pancha Jina Buddha Mandala as a completion-stage "inner-offering".
+
+> It's important to note (and visualize) the colors starting inside with blue and working *counterclockwise* outwards to white. We are beginning at the zenith, at emptiness.
 
 **Dzogchen**: With the second *Rigpa* wisdom *lhun grub*, the rings take on another level of meaning which builds upon the previous mandala. The *lhun grub* teachings state that the "rainbow body" (tib: 'ja' lus) is a level of realization, or full enlightenment and the self-liberation of the human body into a non-material body of light. The "rainbow body phenomenon" is the third party observation (spheres of rainbow light) of the moment when a practitioner attains the rainbow body (*sambhoga kaya*) at death.[^1] In Dzogchen this concept (*lhun grub*) is symbolized as a set of spherical rings called *thigle* (tib: thig le).
 
 [^1]: [Rainbow body](https://en.wikipedia.org/wiki/Rainbow_body).
 
-Encoding: *thigle*, the rainbow body, and spheres of rainbow light.
+**Encoding**: Rings as a *thigle*, the rainbow body, and spheres of rainbow light.
 
 ### Vajra Midpoint, Bindu, and Emptiness
 
 The *vajra* (tib: rdo rje) is a symbol, like the rings, which can consume an entire lifetime (or more) of study. Focusing on Tibetan Buddhism and the esoteric viewpoint, the *vajra* is a symbol of an adamantine state of existence and embodies emptiness (skrt: shunyata). The center of the *vajra* represents the Null state, where *Samsara* emerges, regenerates, and disintegrates. On one side of the *vajra* is Phenomena, and on the other is Noumena.
 
-The Sanskrit teachings around the word *bindu*, the point or dot at which creation begins, and the starting place of the mandala, is another way to approach this metaphysical imagery. 
+The Sanskrit meanings for the word *bindu* (the point or dot at which creation begins, and the starting place of the mandala) is another way to approach this metaphysical imagery. 
 
-Encoding: the central burst of white light is intended to represent *shunyata*, the Null state of the *vajra*, and the *bindu* (dot or point). The *bijas* (seeds) emanate out of the point, out of emptiness, and merge back into the same. The female *bindu* and the male *bija* giving birth to the cosmos.
+**Encoding**: Central burst of white light as *shunyata*, the Null state of the *vajra*, and the *bindu* (dot or point). The *bijas* (seeds) emanate out of the point, out of emptiness, and merge back into the same. The female *bindu* and the male *bija* giving birth to the cosmos.
 
 ## Reference Sources
 
