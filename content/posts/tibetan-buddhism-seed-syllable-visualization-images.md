@@ -55,6 +55,8 @@ On an *esoteric* level the rings have a vast interpretation that can consume a l
 
 Annutara Yoga: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Jina Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
 
+{{< figure src="tibetan-buddhism-pancha-jina-buddha-mandala.webp" caption="Pancha Bija and Jina Buddha Mandalas" attr="John C. Huntington" attrlink="https://huntingtonarchive.org/" >}}
+
 In the male tantras, this mandala is visualized *clockwise* beginning from the eastern direction (bottom in the mandala). Directionally, this would be East (Blue, Bottom, Akshobhya) -> South (Yellow, Left, Ratnasambhava) -> West (Red, Top, Amitabha) -> North (Green, Amoghasiddhi) -> Zenith (White, Center, Vairochana). However, in the female tantras the eastern and zenith position are switched and one visualizes in a *counter-clockwise* direction beginning at the zenith, hence the name "left-hand".
 
 Encoding: the female tantra version of the Pancha Jina Buddha Mandala as an "inner-offering".
@@ -67,7 +69,7 @@ Switching motifs to Dzogchen and the second *Rigpa* wisdom *lhun grub*, the ring
 
 Encoding: *thigle*, the rainbow body, and spheres of rainbow light.
 
-**Vajra Midpoint**, **Bindu**, and **Emptiness**: The *vajra* (tib: rdo rje) is a symbol, like the rings, which can consume an entire lifetime (or more) of study. Focusing on Tibetan Buddhism and the esoteric viewpoint, the *vajra* is a symbol of an adamantine state of existence and embodies emptiness (skrt: shunyata). The center of the *vajra* represents the Null state, where *Samsara* emerges, regenerates, and disintegrates. On the one side of the *vajra* is Phenomena, and on the other is Noumena.
+**Vajra Midpoint**, **Bindu**, and **Emptiness**: The *vajra* (tib: rdo rje) is a symbol, like the rings, which can consume an entire lifetime (or more) of study. Focusing on Tibetan Buddhism and the esoteric viewpoint, the *vajra* is a symbol of an adamantine state of existence and embodies emptiness (skrt: shunyata). The center of the *vajra* represents the Null state, where *Samsara* emerges, regenerates, and disintegrates. On one side of the *vajra* is Phenomena, and on the other is Noumena.
 
 The Sanskrit teachings around the word *bindu*, the point or dot at which creation begins, and the starting place of the mandala, is another way to approach this metaphysical imagery. 
 
