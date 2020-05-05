@@ -109,17 +109,17 @@ suffixes = ["atom"]
 [markup.goldmark]
 [markup.goldmark.extensions]
 definitionList = false
-footnote = false
+footnote = true
 linkify = false
 strikethrough = false
 table = true
 taskList = false
 typographer = false
+[markup.goldmark.renderer]
+unsafe = true
 [markup.goldmark.parser]
 attribute = false
 autoHeadingID = false
-[markup.goldmark.renderer]
-unsafe = true
 [markup.highlight]
 codeFences = false
 noClasses = false
