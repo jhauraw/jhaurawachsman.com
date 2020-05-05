@@ -1,9 +1,9 @@
 +++
 date = 2020-05-04T14:00:00Z
-lastmod = 2020-05-05T19:30:00Z
+lastmod = 2020-05-05T21:30:00Z
 author = "jhaurawachsman"
 title = "Tibetan Buddhism Seed Syllable Visualization Images"
-subtitle = "A set of high resolution printable *bijas* to assist during visualization, meditation, and practice. Letter A, Syllables AH, OM, HUM, and TAM."
+subtitle = "A set of high resolution printable *bijas* to assist during visualization, meditation, and practice. Letter A, Syllables AH, OM, HRIH, HUM, and TAM."
 feature = "tibetan-buddhism-seed-syllable-visualization-images.webp"
 +++
 
@@ -24,6 +24,7 @@ The *bijas* are (from top clockwise):
 - **OM** (tib: oM)
 - **HUM** (tib: hU~M) x2
 - **TAM** (tib: tAM)
+- **HRIH** (tib: hrIH, not shown)
 
 ## Downloading
 
@@ -41,9 +42,13 @@ For the images of this collection, two core teachings were used to encode the sy
 
 Working from the outermost symbol inwards, we have:
 
-**Rays of Light**: Rays of light emanate from the center-point on a background of royal-blue sky.
+### Rays of Light
 
-**Five Spherical Rings**: On an *exoteric* level the rainbow-like rings represent the five elements (skrt: pancha bhuta, tib: 'byung ba lnga) as described in Vajrayana:
+Rays of light emanate from the center-point on a background of royal-blue sky.
+
+### Five Spherical Rings
+
+On an *exoteric* level the rainbow-like rings represent the five elements (skrt: pancha bhuta, tib: 'byung ba lnga) as described in Vajrayana:
 
 - Ether, Space (*Vyoma*, *Akasa*): White, Vairochana, KHAM
 - Air (*Vayu*): Green, Amitabha, YAM
@@ -53,7 +58,7 @@ Working from the outermost symbol inwards, we have:
 
 On an *esoteric* level the rings have a vast interpretation that can consume a lifetime (or more) of study.
 
-Annutara Yoga: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Jina Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
+**Mother Tantra**: To understand the way in which the female tantra is symbolized in the images, we must first consider the Five (skrt: pancha) Jina Buddha Mandala. This mandala is one of the primary formulations of the bliss-body (skrt: sambhoga kaya), and a way to conceptualize Buddhahood in meditation and art.
 
 {{< figure src="tibetan-buddhism-pancha-jina-buddha-mandala.webp" caption="Pancha Bija and Jina Buddha Mandalas" attr="John C. Huntington" attrlink="https://huntingtonarchive.org/" >}}
 
@@ -63,13 +68,15 @@ Encoding: the female tantra version of the Pancha Jina Buddha Mandala as an "inn
 
 > It's important to note (and visualize) the colors starting inside with blue and working *counter-clockwise* outwards to white. We are beginning at the zenith, at emptiness.
 
-Switching motifs to Dzogchen and the second *Rigpa* wisdom *lhun grub*, the rings take on another level of meaning which builds upon the previous mandala. The *lhun grub* teachings state that the "rainbow body" (tib: 'ja' lus) is a level of realization, or full enlightenment and the self-liberation of the human body into a non-material body of light. The "rainbow body phenomenon" is the third party observation (spheres of rainbow light) of the moment when a practitioner attains the rainbow body (*sambhoga kaya*) at death.[^1] In Dzogchen this concept (*lhun grub*) is symbolized as a set of spherical rings called *thigle* (tib: thig le).
+**Dzogchen**: With the second *Rigpa* wisdom *lhun grub*, the rings take on another level of meaning which builds upon the previous mandala. The *lhun grub* teachings state that the "rainbow body" (tib: 'ja' lus) is a level of realization, or full enlightenment and the self-liberation of the human body into a non-material body of light. The "rainbow body phenomenon" is the third party observation (spheres of rainbow light) of the moment when a practitioner attains the rainbow body (*sambhoga kaya*) at death.[^1] In Dzogchen this concept (*lhun grub*) is symbolized as a set of spherical rings called *thigle* (tib: thig le).
 
 [^1]: [Rainbow body](https://en.wikipedia.org/wiki/Rainbow_body).
 
 Encoding: *thigle*, the rainbow body, and spheres of rainbow light.
 
-**Vajra Midpoint**, **Bindu**, and **Emptiness**: The *vajra* (tib: rdo rje) is a symbol, like the rings, which can consume an entire lifetime (or more) of study. Focusing on Tibetan Buddhism and the esoteric viewpoint, the *vajra* is a symbol of an adamantine state of existence and embodies emptiness (skrt: shunyata). The center of the *vajra* represents the Null state, where *Samsara* emerges, regenerates, and disintegrates. On one side of the *vajra* is Phenomena, and on the other is Noumena.
+### Vajra Midpoint, Bindu, and Emptiness
+
+The *vajra* (tib: rdo rje) is a symbol, like the rings, which can consume an entire lifetime (or more) of study. Focusing on Tibetan Buddhism and the esoteric viewpoint, the *vajra* is a symbol of an adamantine state of existence and embodies emptiness (skrt: shunyata). The center of the *vajra* represents the Null state, where *Samsara* emerges, regenerates, and disintegrates. On one side of the *vajra* is Phenomena, and on the other is Noumena.
 
 The Sanskrit teachings around the word *bindu*, the point or dot at which creation begins, and the starting place of the mandala, is another way to approach this metaphysical imagery. 
 
