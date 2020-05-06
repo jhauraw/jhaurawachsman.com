@@ -1,6 +1,6 @@
 +++
 date = 2020-05-04T14:00:00Z
-lastmod = 2020-05-05T23:00:00Z
+lastmod = 2020-05-06T21:30:00Z
 author = "jhaurawachsman"
 title = "Tibetan Buddhism Seed Syllable Visualization Images"
 subtitle = "A set of high resolution printable *bijas* to assist during visualization, meditation, and practice. Letter A, Syllables AH, OM, HRIH, HUM, and TAM."
@@ -22,9 +22,9 @@ The *bijas* are (from top clockwise):
 - **A** (tib: a)
 - **AH** (tib: AH)
 - **OM** (tib: oM)
-- **HUM** (tib: hU~M) x2
+- **HUM** (tib: hU~M)
 - **TAM** (tib: tAM)
-- **HRIH** (tib: hrIH, not shown)
+- **HRIH** (tib: hrIH)
 
 ## Downloading
 
@@ -50,11 +50,11 @@ Rays of light emanate from the center-point on a background of royal-blue sky.
 
 On an *exoteric* level the rainbow-like rings represent the five elements (skrt: pancha bhuta, tib: 'byung ba lnga) as described in Vajrayana:
 
-- Ether, Space (*Vyoma*, *Akasa*): White, Vairochana, KHAM
-- Air (*Vayu*): Green, Amitabha, YAM
-- Fire (*Agni*): Red, Akshobhya, RAM
-- Water (*Varuna*): Blue, Ratnasambhava, VAM
-- Earth (*Prithivi*, or *Bhumi*): Yellow, Amoghasiddhi, LAM
+- **Ether**, Space (*Vyoma*, *Akasa*): White, Vairochana, KHAM
+- **Air** (*Vayu*): Green, Amitabha, YAM
+- **Fire** (*Agni*): Red, Akshobhya, RAM
+- **Water** (*Varuna*): Blue, Ratnasambhava, VAM
+- **Earth** (*Prithivi*, or *Bhumi*): Yellow, Amoghasiddhi, LAM
 
 On an *esoteric* level the rings have a vast interpretation that can consume a lifetime (or more) of study.
 
@@ -64,11 +64,11 @@ On an *esoteric* level the rings have a vast interpretation that can consume a l
 
 In the male tantras, this mandala is visualized *clockwise* beginning from the eastern direction (bottom in the mandala). Directionally, this would be:
 
-- East (Blue, Bottom, Akshobhya, HUM)
-- South (Yellow, Left, Ratnasambhava, TRAM)
-- West (Red, Top, Amitabha, HRIH)
-- North (Green, Amoghasiddhi, AH)
-- Zenith (White, Center, Vairochana, OM)
+- **East** (Blue, Bottom, Akshobhya, HUM)
+- **South** (Yellow, Left, Ratnasambhava, TRAM)
+- **West** (Red, Top, Amitabha, HRIH)
+- **North** (Green, Amoghasiddhi, AH)
+- **Zenith** (White, Center, Vairochana, OM)
 
 However, in the female tantras the eastern and zenith position are switched and one visualizes in a *counterclockwise* direction beginning at the zenith, hence the name "left-hand".
 
