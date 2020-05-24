@@ -136,7 +136,7 @@ hugo-atom % touch layouts/index.atom
 
 Open the new _Atom Feed_ file (`index.atom`) in your editor, and copy/paste this code:
 
-```xml
+```html
 {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
@@ -224,7 +224,7 @@ In an earlier step, we added a new Atom output format (`outputFormats.ATOM`) in 
 
 Next, open the pasted _BaseOf_ file in your editor and replace the code snippet at `line: 30`:
 
-```xml
+```html
 {{ if .OutputFormats.Get "RSS" }}
 {{ with .OutputFormats.Get "RSS" }}
   <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
@@ -235,7 +235,7 @@ Next, open the pasted _BaseOf_ file in your editor and replace the code snippet 
 
 Replace the entire block above with this snippet:
 
-```xml
+```html
 {{- range .AlternativeOutputFormats }}
 {{ printf `<link rel="%s" type="%s" href="%s" hreflang="%s"/>` .Rel .MediaType.Type .Permalink $.Site.LanguageCode | safeHTML }}
 {{- end }}
@@ -262,7 +262,7 @@ If you see the output above, congratulations, you have successfully implemented 
 
 The snippet below is responsible for pulling in `RegularPages` from the main Sections. This excludes static pages like About, Contact, or Privacy, and list pages like a "Posts" archive index:
 
-```xml
+```markup
 {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
 ```
 
@@ -274,14 +274,13 @@ If the config file setting `rssLimit` is set, we respect that with this snippet:
 
 ```markup
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
-...
 ```
 
 ## Full Post Content, Not Just Summary
 
 Users reading your content via feed aggregation services such as Feedly, will thank you for generating your feed with full post content:
 
-```xml
+```html
 <content type="html">{{ trim .Content "\n" }}</content>
 ```
 
