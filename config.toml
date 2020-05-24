@@ -13,7 +13,6 @@ rssLimit = 100
 enableEmoji = true
 enableRobotsTXT = true
 pluralizelisttitles = false
-disableHugoGeneratorInject = true
 
 [permalinks]
 posts = "/:filename"
@@ -23,6 +22,7 @@ mainSections = ["posts"]
 copyrightYear = 2000
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
 dateFormat = "Jan 2, 2006 3:04PM"
+highlight = "light"
 
 [params.brand]
 domain = "jhaurawachsman.com"
@@ -121,7 +121,6 @@ unsafe = true
 attribute = false
 autoHeadingID = false
 [markup.highlight]
-codeFences = false
 noClasses = false
 tabWidth = 2
 
