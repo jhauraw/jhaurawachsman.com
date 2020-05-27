@@ -51,7 +51,7 @@ adwordsConversionId = "smBtCP7KrcoBEI30pLoC"
 adwordsConversionValue = 0
 facebookApp = "251689391563684"
 facebookPixel = "1130262247309983"
-disqusUser = "jhaurawachsman"
+# disqusShortname = "jhaurawachsman"
 
 [params.logo]
 inline = true

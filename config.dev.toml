@@ -9,7 +9,7 @@ adwordsConversionId = "ID-DEV"
 adwordsConversionValue = 0
 facebookApp = "FB-DEV"
 facebookPixel = "FB-DEV"
-disqusUser = "na"
+disqusShortname = ""
 
 [params.cdn]
 provider = "cloudinary"
