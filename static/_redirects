@@ -1,4 +1,4 @@
-/axiom https://github.com/jhauraw/axiom
+/axiom https://www.axiomtheme.com/
 
 /articles/* /posts/
 /media/pdf/* /pdf/:splat
