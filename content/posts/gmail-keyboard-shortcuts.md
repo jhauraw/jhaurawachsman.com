@@ -113,7 +113,7 @@ __Download__: [PDF]({{< cdn-url src="pdf/Gmail-Keyboard-Shortcuts.pdf" >}}) or [
 </tr>
 <tr>
 <td class="text-left">Go to next misspelled word (Mac only)</td>
-<td class="text-right">⌘&nbsp;+ ;</td>
+<td class="text-right">⌘ + ;</td>
 </tr>
 <tr>
 <td class="text-left">Open spelling suggestions</td>
