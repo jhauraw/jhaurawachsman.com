@@ -2,7 +2,7 @@ baseURL = "https://www.jhaurawachsman.com"
 
 title = "Jhaura Wachsman"
 languageCode = "en-us"
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "en"
 
 theme = "axiom"
 
@@ -173,6 +173,6 @@ name = "Privacy"
 weight = 5
 
 [languages]
-[languages."en-us"]
+[languages."en"]
 weight = 1
-languageName = "US English"
+languageName = "English"
