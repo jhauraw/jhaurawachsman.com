@@ -1,14 +1,15 @@
 baseURL = "http://localhost:1313"
 
 [params.services]
-analyticsId = "UA-DEV"
-adwordsId = "AW-DEV"
+analyticsId = ""
+adwordsId = ""
 adsenseId = ""
 adsenseAdSlotId = ""
-adwordsConversionId = "ID-DEV"
+adsenseLoad = ""
+adwordsConversionId = ""
 adwordsConversionValue = 0
-facebookApp = "FB-DEV"
-facebookPixel = "FB-DEV"
+facebookApp = ""
+facebookPixel = ""
 disqusShortname = ""
 
 [params.cdn]

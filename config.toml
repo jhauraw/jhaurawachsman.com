@@ -42,16 +42,14 @@ footer = ["twitter", "github", "instagram"]
 [params.services]
 analyticsId = "UA-17276272-1"
 adwordsId = "AW-659110413"
-adsenseId = ""
-adsenseAdSlotId = ""
-# adsenseId = "ca-pub-9657127730219095"
-# adsenseAdSlotId = "9395519735"
-adsenseLazy = false
+adsenseId = "" # "ca-pub-9657127730219095"
+adsenseAdSlotId = "" # "9395519735"
+adsenseLoad = ""
 adwordsConversionId = "smBtCP7KrcoBEI30pLoC"
 adwordsConversionValue = 0
 facebookApp = "251689391563684"
 facebookPixel = "1130262247309983"
-# disqusShortname = "jhaurawachsman"
+disqusShortname = "" # "jhaurawachsman"
 
 [params.logo]
 inline = true
@@ -121,7 +119,6 @@ typographer = false
 unsafe = true
 [markup.goldmark.parser]
 attribute = false
-autoHeadingID = false
 [markup.highlight]
 noClasses = false
 tabWidth = 2
