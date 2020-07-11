@@ -40,16 +40,13 @@ youtube = "https://www.youtube.com/jhaurawachsman"
 footer = ["twitter", "github", "instagram"]
 
 [params.services]
-analyticsId = "UA-17276272-1"
-adwordsId = "AW-659110413"
-adsenseId = "" # "ca-pub-9657127730219095"
-adsenseAdSlotId = "" # "9395519735"
-adsenseLoad = ""
-adwordsConversionId = "smBtCP7KrcoBEI30pLoC"
-adwordsConversionValue = 0
+googleAnalyticsId = "UA-17276272-1"
+#googleAdsenseId = "ca-pub-9657127730219095"
+#googleAdsenseAdSlotId = "9395519735"
+#googleAdsenseLoad = ""
 facebookApp = "251689391563684"
 facebookPixel = "1130262247309983"
-disqusShortname = "" # "jhaurawachsman"
+#disqusShortname = "jhaurawachsman"
 
 [params.logo]
 inline = true
