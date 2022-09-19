@@ -31,7 +31,7 @@ The *bijas* are (from top clockwise):
 Click the "Image Gallery" button below to view/download individual images, or the entire set:
 
 {{< blocks/justify class="mt-8" >}}
-{{< button text="Image Gallery" type="info" icon="download" href="https://drive.google.com/drive/folders/113x_Uhxb_5gD8qVMowhgtxEPRTIK3A4q?usp=sharing" >}}
+{{< button text="Image Gallery" type="info" icon="download" href="https://www.vajrabija.com/?utm_source=jwcom&utm_medium=web&utm_id=bijas" >}}
 {{< /blocks/justify >}}
 
 ## Hidden Symbology

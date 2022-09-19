@@ -1,6 +1,6 @@
 +++
 title = "Résumé"
-summary = "Jhaura is an internet business entrepreneur with core skills as a senior level web developer on full-stack SaaS web apps, front-end responsive UI/UX designs, PHP (frameworks, OOP), and Internet Marketing, with twenty years focus on Lead Generation. View his résumé online and/or download as PDF."
+summary = "Jhaura is an internet business entrepreneur with core skills as a CTO, senior level web developer on full-stack SaaS web apps, front-end responsive UI/UX designs, PHP (frameworks, OOP), and Internet Marketing, with twenty years focus on Lead Generation. View his résumé online and/or download as PDF."
 feature = "resume.webp"
 caption = "Pixel perfect code and design."
 +++
@@ -12,7 +12,7 @@ caption = "Pixel perfect code and design."
 # Jhaura Wachsman
 ## Entrepreneur, Web Developer, Internet Marketer
 
-Jhaura is an internet business entrepreneur with core skills as a senior level web developer on full-stack SaaS web apps, front-end responsive UI/UX designs, PHP (frameworks, OOP), and Internet Marketing, with twenty years focus on Lead Generation.
+Jhaura is an internet business entrepreneur with core skills as a CTO, senior level web developer on full-stack SaaS web apps, front-end responsive UI/UX designs, PHP (frameworks, OOP), and Internet Marketing, with twenty years focus on Lead Generation.
 
 Specialized in communication, team leading, and excellence in work ethic.
 
@@ -24,7 +24,7 @@ Social: [twitter.com/jhaurawachsman](https://twitter.com/jhaurawachsman), [linke
 
 ## Skills
 
-**Founding Online Startups**: Previous Lead Generation startup reached $1.25M USD in first year and doubled annually. CEO, CTO, and CFO skills in one person. Executing online business ideas from start to finish successfully
+**Founding Online Startups**: Co-Founder Lead Generation startup reached $1.25M USD in first year and doubled annually. CEO, CTO, and CFO skills in one person. Executing online business ideas from start to finish successfully
 
 **Building Web Apps**: PHP and Laravel (since v4.0). Multi-tenant subscription Apps (SaaS). Single Page Applications (SPAs). Multi-lingual replicated marketing systems with user customization and recurring billing
 
@@ -34,17 +34,7 @@ Social: [twitter.com/jhaurawachsman](https://twitter.com/jhaurawachsman), [linke
 
 **Internet Marketing**: Lead Generation. SEO, Affiliate, Adwords, Adsense, Analytics, and Web Master Tools (Search Console). Increase monetization, profit, and market share
 
-**Workflow**: NPM scripts for task running, build, and deploy. Composer, Node NPM, and Ruby GEM for package management. Sublime Text IDE and iTerm ZSH shell. GIT using GitHub, and Bitbucket for distributed version control, team work, and open-source development. Travis CI pre-deploy testing. Slack and Asana for collaboration and ticketing. Photoshop and Illustrator for bitmap and vector graphics production
-
-* * *
-
-# Experience
-## Entrepreneur, Web Developer, Internet Marketer
-
-Self, Pahrump NV
-Current
-
-Available for equity partnerships, consulting, and contract work.
+**Workflow**: NPM scripts for task running, build, and deploy. Composer, Node NPM, and Ruby GEM for package management. Sublime Text IDE and iTerm ZSH shell. GIT using GitHub, and JIRA for distributed version control, team work, and open-source development. Travis CI pre-deploy testing. Slack and Asana for collaboration and ticketing. Photoshop and Illustrator for bitmap and vector graphics production
 
 **Web Development and Programming**
 
@@ -90,10 +80,11 @@ Available for equity partnerships, consulting, and contract work.
 
 * * *
 
+# Experience
 ## Co-founder and CTO
 
 Empowered Legal, LLC, DBA [Unbundled Attorney](https://www.unbundledattorney.com/), Las Vegas, NV
-January 2014 - December 2018 (5 years)
+January 2014 - Current
 
 Conceptualized, designed, and implemented the business model, product options, operational, physical, legal, and technical infrastructure. Built and coded the service in Laravel 4, and within the first year exceeded $1,000,000 USD in revenues with >50% profit margins. No outside investor capital. Simultaneously served as CTO, CLO, CFO, and lead developer. Grew the business to a national presence with service in 48 states, and maintained extremely high customer satisfaction through product features, ease of use, intuitive design, speed, and uptime.
 
@@ -106,6 +97,12 @@ Conceptualized, designed, and implemented the business model, product options, o
   * Managed an international team of distributed staffers and virtual assistants
 
 * * *
+
+## Founder, Lead Developer
+
+January 2006 - December 2013 (8 years)
+
+Many entrepreneurial projects where the foundations of true grit and business savvy are learned though direct experience. Areas of character and skill development include manufacturing of outdoor gear in China for e-commerce sale worldwide, creating an outdoor brand, building large network marketing teams and opening new markets, and building industry specific SaaS lead generation platforms.
 
 ## Founder, Lead Web Developer
 
